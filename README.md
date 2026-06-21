@@ -21,22 +21,22 @@
 Моё портфолио разделено на ключевые бизнес-домены и демонстрирует полный цикл работы с данными — от «грязных» логов до финального принятия data-driven решений:
 
 #### 📈 Продуктовая аналитика & Статистика
-* **[E-Commerce A/B Testing & Unit Economics](https://github.com/Migiway-Analytics/e-commerce-ab-testing-unit-economics)** *Валидация результатов продуктового эксперимента при помощи стат-тестов ($\chi^2$, T-test, Манн-Уитни) в SciPy в связке с моделированием Unit-экономики и интерактивным калькулятором метрик в Power BI.*
+* **[E-Commerce A/B Testing & Unit Economics](https://github.com/Migiway-Analytics/E-commerce-A-B-test)** *Валидация результатов продуктового эксперимента при помощи стат-тестов ($\chi^2$, T-test, Манн-Уитни) в SciPy в связке с моделированием Unit-экономики и интерактивным калькулятором метрик в Power BI.*
 
 #### 🤖 Машинное обучение & Предиктивный анализ
-* **[E-Com Churn Radar: Прогнозирование оттока](https://github.com/Migiway-Analytics/e-com-churn-radar)** *Разработка ML-пайплайна классификации для выявления клиентов с высоким риском ухода. Борьба с дисбалансом классов, оптимизация Recall/ROC-AUC и экспорт предиктивных факторов в Power BI.*
+* **[E-Com Churn Radar: Прогнозирование оттока](https://github.com/Migiway-Analytics/E-comm-churn-radar)** *Разработка ML-пайплайна классификации для выявления клиентов с высоким риском ухода. Борьба с дисбалансом классов, оптимизация Recall/ROC-AUC и экспорт предиктивных факторов в Power BI.*
 
 #### 🛒 Сквозная коммерческая аналитика (Retail & E-Com)
-* **[E-Commerce Sales & Customer Analytics (RFM + Когорты)](https://github.com/Migiway-Analytics/e-commerce-sales-analytics)** *Трансформация логов Online Retail в витрины данных на Python: когортный анализ удержания (Retention Rate) и сегментация клиентской базы по RFM-методологии.*
-* **[Retail Sales Analytics & Profitability Pipeline](https://github.com/Migiway-Analytics/retail-sales-profitability-ds)** *ETL-пайплайн для расчета юнит-показателей прибыльности (Revenue, Cost, Margin) и построения управленческой панели руководителя в Power BI.*
-* **[Venum Sports Retail Analytics](https://github.com/Migiway-Analytics/venum-retail-analytics)** *Автоматизированный продакшн-скрипт (`main.py`) для очистки данных спортивного бренда, тегирования ассортимента и квадрант-анализа товаров.*
+* **[E-Commerce Sales & Customer Analytics (RFM + Когорты)](https://github.com/Migiway-Analytics/E-commerce-Analytics)** *Трансформация логов Online Retail в витрины данных на Python: когортный анализ удержания (Retention Rate) и сегментация клиентской базы по RFM-методологии.*
+* **[Retail Sales Analytics & Profitability Pipeline](https://github.com/Migiway-Analytics/Sales-DS)** *ETL-пайплайн для расчета юнит-показателей прибыльности (Revenue, Cost, Margin) и построения управленческой панели руководителя в Power BI.*
+* **[Venum Sports Retail Analytics](https://github.com/Migiway-Analytics/Venum-Sports-Retail-Analytics)** *Автоматизированный продакшн-скрипт (`main.py`) для очистки данных спортивного бренда, тегирования ассортимента и квадрант-анализа товаров.*
 
 #### ⏳ Анализ временных рядов & Прогнозирование трендов
-* **[Retail Demand Radar: Прогнозирование спроса](https://github.com/Migiway-Analytics/retail-demand-radar)** *Анализ хронологии продаж, извлечение сезонности, расчёт скользящих окон и создание BI-инструмента для оптимизации складских запасов (ABC/XYZ анализ).*
-* **[BMW Stock Market Analytics (1996—2026)](https://github.com/Migiway-Analytics/bmw-stock-analytics)** *Ретроспективный количественный анализ свечных биржевых данных акций автоконцерна BMW за 30 лет. Оценка долгосрочной волатильности и доходности.*
+* **[Retail Demand Radar: Прогнозирование спроса](https://github.com/Migiway-Analytics/Retail-Demand-Radar)** *Анализ хронологии продаж, извлечение сезонности, расчёт скользящих окон и создание BI-инструмента для оптимизации складских запасов (ABC/XYZ анализ).*
+* **[BMW Stock Market Analytics (1996—2026)](https://github.com/Migiway-Analytics/BMW-analytics-1996-2026)** *Ретроспективный количественный анализ свечных биржевых данных акций автоконцерна BMW за 30 лет. Оценка долгосрочной волатильности и доходности.*
 
 #### ⛏ Data Mining & Текстовый инжиниринг
-* **[Smartphone Market Analytics](https://github.com/Migiway-Analytics/smartphone-market-analytics)** *Сложный парсинг и нормализация неструктурированных текстовых характеристик мобильных устройств при помощи регулярных выражений (Regex) для построения конкурентных матриц.*
+* **[Smartphone Market Analytics](https://github.com/Migiway-Analytics/Mobile-Phone-Analytics)** *Сложный парсинг и нормализация неструктурированных текстовых характеристик мобильных устройств при помощи регулярных выражений (Regex) для построения конкурентных матриц.*
 
 ---
 
