@@ -40,15 +40,6 @@
 
 ---
 
-### 📈 Статистика профиля
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Migiway-Analytics&show_icons=true&theme=radial&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migiway-Analytics&layout=compact&theme=radial" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 🤝 Контакты для связи
 * **Telegram:** @worldkeeper
 * **Kaggle Profile:** [Kaggle Профиль](https://www.kaggle.com/migiway)
