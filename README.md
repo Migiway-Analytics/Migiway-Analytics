@@ -8,7 +8,7 @@
 
 ### 🛠 Мой технологический стек
 
-* **Languages:** Python (Advanced), SQL (PostgreSQL, SQLite)
+* **Languages:** Python (Advanced), SQL (PostgreSQL, SQLite, MSSQL)
 * **Data Engineering & ETL:** Pandas, NumPy, Power Query, Сбор и очистка сырых данных, Инжиниринг фичей
 * **Machine Learning & Stat:** Scikit-Learn (Классификация, Ансамбли, Регрессия), SciPy (Статистические тесты, A/B-тестирование), Statsmodels
 * **Business Intelligence:** Microsoft Power BI, DAX-моделирование, разработка кастомных управленческих дашбордов
