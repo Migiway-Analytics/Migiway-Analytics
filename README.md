@@ -41,6 +41,6 @@
 ---
 
 ### 🤝 Контакты для связи
-* **Telegram:** @worldkeeper
+* **Telegram:** @Knyazev_08
 * **Kaggle Profile:** [MIGIWAY](https://www.kaggle.com/migiway)
 * **Email:** migiwayanalytics@gmail.com
